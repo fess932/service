@@ -1,0 +1,56 @@
+﻿{0,
+{8b9c944e-ba92-11e7-2787-e24c5ac2ec28,"Local cluster",1541,"1sv8",0,0,0,0,0,0,0,
+{1,
+{"1sv8",1541}
+},0,0,0},
+{8,
+{418d84d6-bd7a-11e7-668b-b69da011e165,"ipvolkov","","PostgreSQL","127.0.0.1","ipvolkov","postgres","l8DtI8dTtzf5exX7i9oLQFCJXYpp48BpACmS8BZFolc=","CrSQLDB=Y;DB=ipvolkov;DBMS=PostgreSQL;DBSrvr=127.0.0.1;DBUID=postgres;LIC=1080917718190867890;LicDstr=Y;Locale=ru_RU;Ref=ipvolkov;SLev=0;Srvr=192.168.1.60",0,
+{0,00010101000000,00010101000000,"","",""},0,1,"",0,"","",16},
+{2b98c8d2-bd90-11e7-5888-3ac1f074159b,"ipsamarin","","PostgreSQL","127.0.0.1","ipsamarin","postgres","msonBEZ1sH4adfqT1XgJvoF2LBe/nfAnXhHJDzZqVGc=","CrSQLDB=Y;DB=ipsamarin;DBMS=PostgreSQL;DBSrvr=127.0.0.1;DBUID=postgres;LIC=2802925589976762435;LicDstr=Y;Locale=ru_RU;Ref=ipsamarin;SLev=0;Srvr=192.168.1.60",0,
+{0,00010101000000,00010101000000,"","",""},0,1,"",0,"","",18},
+{ebfb01bc-bd90-11e7-5888-3ac1f074159b,"sklad","","PostgreSQL","127.0.0.1","sklad","postgres","msonBEZ1sH4adfqT1XgJvnb2xlKi3+X5fr/rOA7V5LY=","CrSQLDB=Y;DB=sklad;DBMS=PostgreSQL;DBSrvr=127.0.0.1;DBUID=postgres;LIC=3742752597136562259;LicDstr=Y;Locale=ru_RU;Ref=sklad;SLev=0;Srvr=192.168.1.60",0,
+{0,00010101000000,00010101000000,"","",""},0,1,"",0,"","",19},
+{9f8d9adc-bda0-11e7-ce9d-5aa013aa7bf7,"autoservice50","","PostgreSQL","127.0.0.1","autoservice50","postgres","msonBEZ1sH4adfqT1XgJvqmd6toaf9o6mlCEH/3cZrQ=","CrSQLDB=Y;DB=autoservice50;DBMS=PostgreSQL;DBSrvr=127.0.0.1;DBUID=postgres;LIC=8639238605441521667;LicDstr=Y;Locale=ru_RU;Ref=autoservice50;SLev=0;Srvr=192.168.1.60",0,
+{0,00010101000000,00010101000000,"","",""},0,1,"",0,"","",21},
+{0e79e6ec-bda3-11e7-ce9d-5aa013aa7bf7,"autoservice40","","PostgreSQL","127.0.0.1","autoservice40","postgres","msonBEZ1sH4adfqT1XgJvmAy0bAi9rurX6x76saE8sM=","CrSQLDB=Y;DB=autoservice40;DBMS=PostgreSQL;DBSrvr=127.0.0.1;DBUID=postgres;LIC=8567233767766132998;LicDstr=Y;Locale=ru_RU;Ref=autoservice40;SLev=0;Srvr=192.168.1.60",0,
+{0,00010101000000,00010101000000,"","",""},0,1,"",0,"","",22},
+{50899544-bda5-11e7-ce9d-5aa013aa7bf7,"autoservice1","","PostgreSQL","127.0.0.1","autoservice1","postgres","msonBEZ1sH4adfqT1XgJvmo+8gSeppmlVwPt7cF7WYc=","CrSQLDB=Y;DB=autoservice1;DBMS=PostgreSQL;DBSrvr=127.0.0.1;DBUID=postgres;LIC=8566106772370082050;LicDstr=Y;Locale=ru_RU;Ref=autoservice1;SLev=0;Srvr=192.168.1.60",0,
+{1,20180731172224,00010101000000,"в связи с необходимостью обновления конфигурации.
+
+Для администратора:
+Для того чтобы разрешить работу пользователей, воспользуйтесь консолью кластера серверов или запустите ""1С:Предприятие"" с параметрами:
+ENTERPRISE /S""192.168.1.60:1541\autoservice1"" /CРазрешитьРаботуПользователей /UC<код разрешения>","ПакетноеОбновлениеКонфигурацииИБ",""},0,1,"",0,"","",4849},
+{fedfdcd8-dd04-11e7-ac91-6e0ca7c88c4d,"sm","","PostgreSQL","127.0.0.1","sm","postgres","msonBEZ1sH4adfqT1XgJvl7hpFxbqIGxuiW8ByHtMK4=","CrSQLDB=Y;DB=sm;DBMS=PostgreSQL;DBSrvr=127.0.0.1;DBUID=postgres;LIC=881645666224046320;LicDstr=Y;Locale=ru_RU;Ref=sm;SLev=0;Srvr=192.168.1.60",0,
+{0,00010101000000,00010101000000,"","",""},0,1,"",0,"","",4433},
+{e884b79e-f1e8-11e7-c78d-26ae9054a6b8,"testbase","","PostgreSQL","192.168.1.60","testbase","postgres","msonBEZ1sH4adfqT1XgJvv+Ai8DZLp1++myjQ6Qs91w=","CrSQLDB=Y;DB=testbase;DBMS=PostgreSQL;DBSrvr=192.168.1.60;DBUID=postgres;LIC=8261005484685512022;LicDstr=Y;Locale=ru_RU;Ref=testbase;SLev=0;Srvr=192.168.1.60",0,
+{0,00010101000000,00010101000000,"","",""},0,1,"",0,"","",949}
+},
+{1,
+{1062ab4c-93cc-11e8-b292-322d6e579624,"1sv8",1,1,
+{1.345690715506154,8.020911922106738e-1,4.200266684654759e-1,0,1.235728548300042e-1,88944,5.409658609068106e-3,0,223756,0,100,60,1424904264,12924940288,1.5},1000,8c3b6ac4-ba92-11e7-2787-e24c5ac2ec28}
+},
+{0},
+{1,
+{8c3b6ac4-ba92-11e7-2787-e24c5ac2ec28,"Central server",1540,"1sv8",1,
+{1,
+{1560,1591}
+},"","6cNGhHNSufnPqnVLYReVaw==",0,0,8,128,1000,1,0,1,0,1,1541}
+},
+{1,
+{8c178708-ba92-11e7-5b91-e24c5ac2ec28,"Primary cluster manager","1sv8",1,1,8c3b6ac4-ba92-11e7-2787-e24c5ac2ec28}
+},
+{0},
+{0},
+{0},
+{0},
+{0},
+{0,0},0,
+{0},
+{0},
+{0},
+{0},
+{0},
+{0},
+{0},
+{0},
+{0},5627}
